@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - gem
+  - cherry
+  - DeathZone
+  - VictoryZone
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -40,4 +45,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2102259395
+    locked: 0
+  - name: ForeGround
+    uniqueID: 1797794549
+    locked: 0
+  - name: Prop
+    uniqueID: 1527052061
+    locked: 0
+  - name: Charactor
+    uniqueID: 3211319095
     locked: 0
