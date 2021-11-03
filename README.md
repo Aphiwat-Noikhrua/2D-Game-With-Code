@@ -1,5 +1,7 @@
 # 2D-Game
-2D game with free assets from unity
+2D game with free assets from unity.
+Play this project.
+https://aphiwat-noikhrua.github.io/2Dgame-withCode/WebGL/index.html
 
 Asset
 
