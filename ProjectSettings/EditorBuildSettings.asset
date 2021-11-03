@@ -6,11 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/1-GameOver.unity
-    guid: 5e6756fb422c6fc45a7fd814bf29eb18
+    path: Assets/Scenes/0-Home.unity
+    guid: b46c7f1466471e643bb08f4b40ce965f
   - enabled: 1
     path: Assets/Scenes/Level1.unity
     guid: 483866ed3c016b04fa6f1b5ae984ad49
@@ -21,8 +21,8 @@ EditorBuildSettings:
     path: Assets/Scenes/Level3.unity
     guid: 1f0a3c72a3becff4b8cab10b64a69ca5
   - enabled: 1
-    path: Assets/Scenes/0-Home.unity
-    guid: b46c7f1466471e643bb08f4b40ce965f
+    path: Assets/Scenes/1-GameOver.unity
+    guid: 5e6756fb422c6fc45a7fd814bf29eb18
   - enabled: 1
     path: Assets/Scenes/1-Victory.unity
     guid: e463034915392264584a9ec725385546
@@ -39,23 +39,23 @@ EditorBuildSettings:
     path: Assets/Scenes/3-Victory.unity
     guid: 608b15f71e63bd347a11780d95517cd1
   - enabled: 0
-    path: Assets/Scenes/H-GameOver.unity
-    guid: 2baf9b80f26631247a88586edf5a3b2f
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/H-Level1.unity
-    guid: d5e921402a65b7f48afc28d64e3ccef7
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/H-Level2.unity
-    guid: 134a54bd05e29f44cb3311eb6903d55c
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/H-Level3.unity
-    guid: d536a9e40b898f24aa48400e2b3d526f
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/H-Menu.unity
-    guid: 9e83e5e40ecb7664ea37ba640a857e11
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/H-Victory.unity
-    guid: 7595155047c131d4ea28caf08b45160d
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
